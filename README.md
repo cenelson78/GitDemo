@@ -5,6 +5,7 @@ This is a demo app for the Git course.
 ## GUIs
 
 - This change made by VSCode
+- This change made by Visual Studio 2022
 
 ## How To Work With Git
 
